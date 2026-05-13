@@ -190,7 +190,7 @@ This makes the project ideal for:
 
 Visit the live website here:
 
-👉 [https://nextgen-library.netlify.app/]
+👉 https://nextgen-library.netlify.app/
 
 ---
 
