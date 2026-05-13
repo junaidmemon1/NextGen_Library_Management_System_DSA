@@ -198,7 +198,7 @@ Visit the live website here:
 
 ```bash
 # Clone the repository
-git clone <your-repository-link>
+git clone https://github.com/junaidmemon1/NextGen_Library_Management_System_DSA.git
 
 # Navigate to project folder
 cd nextgen-library-management-system
